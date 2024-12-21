@@ -1,4 +1,4 @@
-industrial_risk, management_risk, financial_flexibility, credibility, competitiveness, operating_risk,class
+industrial_risk, management_risk, financial_flexibility, credibility, competitiveness, operating_risk, class
 0.5,1,0,0,0,0.5,bankruptcy
 0,1,0,0,0,1,bankruptcy
 1,0,0,0,0,1,bankruptcy
@@ -133,7 +133,7 @@ industrial_risk, management_risk, financial_flexibility, credibility, competitiv
 0.5,0.5,1,0.5,1,0.5,non-bankruptcy
 0,1,0.5,0.5,0.5,0,non-bankruptcy
 1,0,0.5,0.5,0.5,1,non-bankruptcy
-0,1,0.5,0.5,0.5,1,non-bankruptcy
+"0,1,0.5,0.5,0.5,1,non-bankruptcy",,,,,,
 0,1,1,1,1,0,non-bankruptcy
 1,0,1,1,1,1,non-bankruptcy
 0,1,1,1,1,1,non-bankruptcy
